@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "getopt.h": "c",
+    "getopt_core.h": "c",
+    "getopt_ext.h": "c",
+    "unistd.h": "c",
+    "errno.h": "c",
+    "pthread.h": "c",
+    "malloc.h": "c",
+    "stdio.h": "c"
+  }
+}
